@@ -59,3 +59,15 @@ Block percentage: 0.96%
 
 <img width="1185" alt="Screenshot 2024-01-24 at 9 06 07 AM" src="https://github.com/reaj999/vCard-Electronic-Business-Card/assets/79453663/03d97c67-2576-44ef-8694-cfde7b0b83a3">
 
+
+# Design Issues
+
+- Few fields need to set as mandatatory field. Such as phone number, email, profession.
+- Data type need to Predefined in the database
+- After suniting a user should be able to download from the preview section as well.
+
+# Suggestions
+
+- Image size limit can be reduced to to load faster after adding it to preview zone.
+- By reducing unnecessary CSS file and clutters response time can be improved.
+
